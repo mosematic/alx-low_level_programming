@@ -1,12 +1,9 @@
 #include "main.h"
+/**
+ * main - lets put char -putchar
+ * Return: returns 0 if successful
+ */
 
-	/**
-	 * main - Entry point
-	 *
-	 * Description: a program that prints _putchar
-	 *
-	 * Return: Always: 0 (success)
-	 */
 int main(void)
 {
 	_putchar('_');
