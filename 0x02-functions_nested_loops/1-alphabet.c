@@ -1,20 +1,17 @@
 #include "main.h"
 /**
-*main - Entry point
-*Return: Always 0 (Success)
-*/
-int main(void)
+ * main - lets print_alphabet in lower case
+ * Return: returns 0 if successful
+ */
+
+void  print_alphabet(void)
 {
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
+	char alphabet = 'a';
 
-return (0);
+	while (alphabet <= 'z')
+	{
+		_putchar(alphabet);
+		alphabet++;
+	}
+	_putchar('\n');
 }
-
