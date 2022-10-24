@@ -2,6 +2,7 @@
 
 /**
  * puts_half - prints the second half of the string
+ * @str: parameter input for str
  * Return: 0
  */
 
