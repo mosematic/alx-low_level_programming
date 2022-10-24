@@ -3,7 +3,7 @@
 /**
  * puts2 - prints every character of a string
  *
- *
+ * @str: parameter input for str
  * Return: Noting
 */
 
