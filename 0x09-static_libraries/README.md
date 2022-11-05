@@ -1,1 +1,1 @@
-To be updated later 
+static libraries 
